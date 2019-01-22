@@ -3,7 +3,7 @@ sides a, b and c of the triangle are given. use appropriate statements
 to input values a,b and c from the keyboard. Formula for the area of 
 triangle is as follow 
 
-Area = underroot s(s-a) (s-b) (s-c) 
+Area = underroot s(s-a) (s-b) (s-c).
 
 Where s=(a+b+c)/2.  */
 
